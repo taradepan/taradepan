@@ -1,11 +1,7 @@
 # Taradepan R
 
-
-
-
-<details>
  <summary><h3>👨‍About Me</h3></summary>
-   I am Computer Science Student trying my best to explore various fields in tech. Started from Web Technologies to AI and Machine Learning.
+   I am Computer Science Student trying my best to explore various fields in tech. Started from Web Technologies to AI and Machine Learning. Feel free to go through my repo's. I will be happy to hear any suggestions from you...
 
 [website]: https://taradepan.vercel.app/
 
@@ -27,6 +23,8 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
