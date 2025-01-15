@@ -1,7 +1,7 @@
 # Hi there, I’m Taradepan R! 👋
 
 ## 👨‍💻 About Me
-I’m a final-year Computer Science student at Dr. MGR Educational and Research Institute. With a strong focus on AI, I explore innovative solutions that bridge AI with real-world challenges. As a former Google DSC Lead (2023) and a Microsoft Learn Student Ambassador (Beta), I am passionate about community building and sharing knowledge through tech talks.
+I’m a final-year Computer Science student at Dr. MGR Educational and Research Institute. With a strong focus on AI, I explore innovative solutions that bridge AI with real-world challenges. As a former Google DSC Lead and a Microsoft Learn Student Ambassador, I am passionate about community building and sharing knowledge through tech talks.
 
 🔹 **AI Enthusiast:** Specialized in LLMs and AI Agents.  
 🔹 **Content Creator:** Building [AIxDevs](https://linktr.ee/aixdevs), to empower aspiring AI developers.  
