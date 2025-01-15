@@ -53,8 +53,8 @@ I’m a final-year Computer Science student at Dr. MGR Educational and Research 
 🔹 Multi-Agent AI system recommending courses tailored to user needs, leveraging tools and advanced models like LLAMA 3.1 for research and content generation.
 
 ### [Skin Disease Classifier](https://github.com/taradepan/skin-disease-classifier)
-🔹 **Tech Stack:** Streamlit, Gemini
-🔹 An AI-driven platform for accurate skin disease diagnosis with both image prediction and symptoms provided by the user.
+🔹 **Tech Stack:** Streamlit, Google Gemini Pro
+🔹 Web-based skin disease detection system combining image analysis with interactive symptom verification through AI-driven chat diagnostics.
 
 ### [AI Telegram Bot](https://github.com/taradepan/ai-telegram-bot)  
 🔹 **Tech Stack:** Python, Cohere, Gemini, ChromaDB, Stable Diffusion, Deepgram  
