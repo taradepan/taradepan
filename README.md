@@ -48,15 +48,15 @@ I’m a final-year Computer Science student at Dr. MGR Educational and Research 
 🔹 **Tech Stack:** OpenAI GPT-4, DuckDuckGo Libraries  
 🔹 Combines LLMs and internet search to answer queries beyond database context, reducing costs and improving accuracy over traditional RAG systems.
 
-### [Personalized Learning Agents](https://github.com/taradepan/personalized-education-platform)  
+### [Personalized Learning Agents](https://github.com/taradepan/AI_Education_agent)  
 🔹 **Tech Stack:** CrewAI, LLAMA 3.1, Serper API, YouTube Search  
 🔹 Multi-Agent AI system recommending courses tailored to user needs, leveraging tools and advanced models like LLAMA 3.1 for research and content generation.
 
-### [Skin Disease Classifier](https://github.com/taradepan/skin-disease-classifier)
+### [Skin Disease Classifier](https://github.com/taradepan/Skin_Disease_Classifier)
 🔹 **Tech Stack:** Streamlit, Google Gemini Pro         
 🔹 Web-based skin disease detection system combining image analysis with interactive symptom verification through AI-driven chat diagnostics.
 
-### [AI Telegram Bot](https://github.com/taradepan/ai-telegram-bot)  
+### [AI Telegram Bot](https://github.com/taradepan/TeleBot)  
 🔹 **Tech Stack:** Python, Cohere, Gemini, ChromaDB, Stable Diffusion, Deepgram  
 🔹 An AI-powered Telegram bot supporting text and image-based interactions, PDF-based RAG, and voice-to-text functionality. Designed for conversational AI, image generation, and PDF query resolution with advanced tools integration.
 
