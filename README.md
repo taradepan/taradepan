@@ -7,7 +7,7 @@ I’m a final-year Computer Science student at Dr. MGR Educational and Research 
 🔹 **Content Creator:** Building [AIxDevs](https://linktr.ee/aixdevs), to empower aspiring AI developers.  
 🔹 **Speaker:** Delivered talks on AI Agents, Retrieval-Augmented Generation, and LLMs at various tech communities.
 
-🌐 [**Visit My Website**](https://taradepan.dev/)
+🌐 [**Visit My Website**](https://taradepan.me/)
 
 ---
 
