@@ -4,7 +4,7 @@
 I'm a final-year Computer Science student at Dr. MGR Educational and Research Institute, specializing in AI and Developer Tools. As a former Google DSC Lead and current Microsoft Learn Student Ambassador, I'm passionate about building tools that empower developers and creating educational content about AI technologies.
 
 🔹 **AI Engineer:** Specialized in LLMs, AI Agents, and Developer Tools  
-🔹 **Content Creator:** Running [AIxDevs](https://linktr.ee/aixdevs) - Educational content on LLMs and AI Agents  
+🔹 **Content Creator:** Building [AIxDevs](https://linktr.ee/aixdevs) - Educational content on LLMs and AI Agents  
 🔹 **Tech Speaker:** Delivering talks on AI Agents, RAG Systems, and LLMs across tech communities
 
 ## 🚀 Featured Projects
